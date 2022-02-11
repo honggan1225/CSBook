@@ -41,7 +41,7 @@
 - 1.7《算法帝国》 [百度云下载链接](https://pan.baidu.com/s/1JRlBFaoHt8Ij1OEltFqQSQ  ) 密码: uwp8
 - 1.8《算法设计与分析基础第3版》 [百度云下载链接](https://pan.baidu.com/s/1sEg_34upNP9hvfNsAksINg  ) 密码: kpff
 - 2.1《算法导论_英文版_第三版》 [百度云下载链接](https://pan.baidu.com/s/14mf0dwJG8JWZ8jSznkEWgg  ) 密码: ecms
-- 2.1《算法导论中文版》 [百度云下载链接](https://pan.baidu.com/s/1snNp5a1rjM6QCryQ-XNWQg  ) 密码: fpqn
+- 2.1《算法导论中文版》 [百度云下载链接](https://pan.baidu.com/s/1snNp5a1rjM6QCryQ-XNWQg  ) 密码: fpqn555
 - 2.2《算法 (第4版)》 [百度云下载链接](https://pan.baidu.com/s/1TD8Nb_P7mlyyduzWGdrXZw  ) 密码: k7ah 
 - 2.3《数据结构与算法 Java版》 [百度云下载链接](https://pan.baidu.com/s/1BaY8bL3prf-QOcvrWzH4oA  ) 密码: jw81
 - 2.4《Algorithms算法概论中文版》 [百度云下载链接](https://pan.baidu.com/s/1EaBLy3p-UvZOGQXrzskB-A  ) 密码: goi3
